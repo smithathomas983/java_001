@@ -11,6 +11,7 @@ public class L07A_StringFunctions {
 
 		char ch1='r';
 		indexOfString(str1,ch1);
+		System.out.println("String");
 	}
 
 	public static void indexOfString(String str1,char ch1) {
