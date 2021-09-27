@@ -12,7 +12,10 @@ public class gitTest1 {
 		System.out.println("9/26-01");
 		System.out.println("9/26-02");
 		System.out.println("9/27-02");
-			
+		//
+		System.out.println("9/27-02");
+		System.out.println("9/27-02");
+		System.out.println("9/27-02");
 		
 	}
 }
